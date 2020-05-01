@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13928" started-at="2020-04-20T21:24:50Z" finished-at="2020-04-20T21:25:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13928" started-at="2020-04-20T21:24:50Z" finished-at="2020-04-20T21:25:03Z">
+      <class name="com.qa.hubspot.tests.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.tests.LoginTest@ae45eb6]" name="setUp" is-config="true" duration-ms="11774" started-at="2020-04-20T21:24:50Z" finished-at="2020-04-20T21:25:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.qa.hubspot.tests.LoginTest@ae45eb6]" name="verifyLoginPageTitleTest" duration-ms="20" started-at="2020-04-20T21:25:01Z" finished-at="2020-04-20T21:25:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method status="PASS" signature="verifySignUpLinkTest()[pri:2, instance:com.qa.hubspot.tests.LoginTest@ae45eb6]" name="verifySignUpLinkTest" duration-ms="89" started-at="2020-04-20T21:25:01Z" finished-at="2020-04-20T21:25:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignUpLinkTest -->
+        <test-method status="PASS" signature="doLoginTest()[pri:3, instance:com.qa.hubspot.tests.LoginTest@ae45eb6]" name="doLoginTest" duration-ms="849" started-at="2020-04-20T21:25:01Z" finished-at="2020-04-20T21:25:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLoginTest -->
+        <test-method status="PASS" signature="testDownTest()[pri:0, instance:com.qa.hubspot.tests.LoginTest@ae45eb6]" name="testDownTest" is-config="true" duration-ms="1166" started-at="2020-04-20T21:25:02Z" finished-at="2020-04-20T21:25:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDownTest -->
+      </class> <!-- com.qa.hubspot.tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
